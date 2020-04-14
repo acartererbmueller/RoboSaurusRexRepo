@@ -26,22 +26,36 @@ namespace Robot_Vs_Dinosaurs
             this.levelOfDinosaurAttackPower = levelOfDinosaurAttackPower;
             this.levelOfDinosaurEnergy = levelOfDinosaurEnergy;
 
+            this.dinosaurType = dinosaurType;
+            levelOfDinosaurHealth = 100;
+            this.levelOfDinosaurAttackPower = levelOfDinosaurAttackPower;
+            this.levelOfDinosaurEnergy = levelOfDinosaurEnergy;
 
-
-
-
-
+            this.dinosaurType = dinosaurType;
+            levelOfDinosaurHealth = 100;
+            this.levelOfDinosaurAttackPower = levelOfDinosaurAttackPower;
+            this.levelOfDinosaurEnergy = levelOfDinosaurEnergy;
         }
 
 
+    }
 
-        //Member Methods (CAN DO)
-        
 
-        //What can a dinosaur do?
-        //We need an Attack method
 
-        public void Attack()
+
+
+}
+
+
+
+
+    //Member Methods (CAN DO)
+
+
+    //What can a dinosaur do?
+    //We need an Attack method
+
+    public void Attack()
         {
 
 
