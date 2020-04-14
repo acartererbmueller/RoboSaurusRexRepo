@@ -6,7 +6,19 @@ using System.Threading.Tasks;
 
 namespace Robot_Vs_Dinosaurs
 {
-    class Herd
+    public class Herd
     {
+
+        // MV is a list of dinos
+
+
+        //Member Variables (HAS A)
+
+        //Constructor
+
+        //Member Methods (CAN DO)
+
+
+         
     }
 }

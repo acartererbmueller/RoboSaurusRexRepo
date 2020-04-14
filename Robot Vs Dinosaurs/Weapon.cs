@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace Robot_Vs_Dinosaurs
 {
-    class Weapon
+    public class Weapon
     {
+
+        //Member Variables (HAS A)
+
+        //Constructor
+
+        //Member Methods (CAN DO)
+
+
+
     }
 }
